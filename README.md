@@ -6,7 +6,9 @@ It will enable the user to select the size of the QR desired.
 
 ## Project implementation
 
-This project is implemented used vanilla Javascript and Tailwind for the style.
+This project is implemented used vanilla `Javascript` and `Tailwind` for the style.
+
+Nice `ToDo` in the future: add a URL shortener aswell as the QR code already generated.
 
 ### Tailwind CSS
 
